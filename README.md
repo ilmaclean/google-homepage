@@ -1,0 +1,1 @@
+This goal of this project is to recreate the Google homepage. The skills I will need to show are basic HTML and CSS skills.
